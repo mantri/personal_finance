@@ -1,0 +1,9 @@
+
+Portfolio	                                            Admiral Shares	ETF
+===========================================================================
+One-Fund: Start with U.S. Stocks (S&P 500)	          VFIAX	          VOO
+One-Fund: Start with U.S. Stocks (Total Stock Market)	VTSAX	          VTI
+Two-Fund: Add U.S. Bonds	                            VBTLX	          BND
+Three-Fund: Add International Stocks	                VTIAX	          VXUS
+Four-Fund: Add International Bonds	                  VTABX	          BNDX
+Five-Fund: Add REITs	                                VGSLX	          VNQ
